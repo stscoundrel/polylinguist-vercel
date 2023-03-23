@@ -2,4 +2,4 @@ module polylinguistvercel
 
 go 1.17
 
-require github.com/stscoundrel/polylinguist v0.1.0 // indirect
+require github.com/stscoundrel/polylinguist v0.2.0 // indirect
