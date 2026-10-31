@@ -16,6 +16,7 @@ func GetStats() ([]stats.LanguageStatistic, error) {
 			"old-norwegian-dictionary",
 			"old-norwegian-dictionary-rs",
 			"old-norwegian-dictionary-go",
+			"sundance",
 		},
 		AliasedLanguages: []stats.LanguageAlias{
 			{
